@@ -631,6 +631,7 @@ class TetrahedralWorkshopButton(bpy.types.Operator):
         # Add object to physicsObjectsList, remove it if already there.
         if bpy.context.object.type == 'MESH':
             if bpy.context.object in objects:
+                reset_position()
                 objects.remove(bpy.context.object)
                 
                 bpy.utils.unregister_class(TetrahedralWorkshopPanel)
