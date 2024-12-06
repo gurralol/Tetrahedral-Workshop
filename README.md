@@ -11,4 +11,4 @@ To be used in conjunction with Matthias Müllers tetrahedralizer for Blender:
 https://github.com/matthias-research/pages/blob/master/tenMinutePhysics/BlenderTetPlugin.py
 
 > [!TIP]
-> If you use a pin-group, you have to use the same vertex group for your armature modifier.
+> If you use a pin group, you have to use the same vertex group for your armature modifier.
