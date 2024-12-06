@@ -1,4 +1,4 @@
-# Tetrahedral-Workshop
+# Tetrahedral Workshop
 ![showcase](https://github.com/user-attachments/assets/f87ff4e4-7689-4f92-8ae8-112ee3d83bcb)
 
 
