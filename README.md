@@ -2,7 +2,7 @@
 ![showcase](https://github.com/user-attachments/assets/f87ff4e4-7689-4f92-8ae8-112ee3d83bcb)
 
 <div class="test">
-<img style="flex" align="right" src="https://github.com/user-attachments/assets/cfd3b9c5-4b09-4fd2-8a63-7de76b9f94ee">
+<img style="flex" align="right" src="https://github.com/user-attachments/assets/629038c7-93fd-4b1b-9373-506aa767d2cd">
 </div>
 
 ## Blender addon for simulating tetrahedral soft-bodies.
