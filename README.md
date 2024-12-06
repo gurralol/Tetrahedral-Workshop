@@ -4,6 +4,7 @@
 <div class="test">
 <img style="flex" align="right" src="https://github.com/user-attachments/assets/629038c7-93fd-4b1b-9373-506aa767d2cd">
 </div>
+![panel](https://github.com/user-attachments/assets/a659c437-3290-4a30-bd82-6226b7ead4d9)
 
 ## Blender addon for simulating tetrahedral soft-bodies.
 
