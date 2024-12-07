@@ -1,7 +1,9 @@
-# Tetrahedral Workshop
-![showcase](https://github.com/user-attachments/assets/f87ff4e4-7689-4f92-8ae8-112ee3d83bcb)
-
-
+<div align="center">
+  <h1>Tetrahedral Workshop</h1>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/01a8ea25-6c6c-475d-b6a0-427eb63cc749">
+</div>
 
 ## Blender addon for simulating tetrahedral soft-bodies.
 
