@@ -41,8 +41,5 @@ Make sure to install this plugin and tetrahedralize your mesh before using Tetra
 ## 🧠 Credits
 
 - **Author:** Gurralol
-- **Tetrahedralizer:** Matthias Müller  
-
-## 📸 Gallery (Optional)
-
-_Add screenshots, GIFs, or short demos here to showcase simulations and workflows._
+- **Tetrahedralizer:** Matthias Müller
+- **Licence:** This project is licensed under the MIT License. See the [LICENSE](https://github.com/gurralol/Tetrahedral-Workshop/blob/main/LICENSE) file for details.
